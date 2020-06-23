@@ -45,7 +45,6 @@
 		</div>	
 	</div>
 
-
 	<hr>
 	<footer>
 		<p>&copy; Tanmaya copyright@2020</p>
